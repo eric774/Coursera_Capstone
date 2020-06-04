@@ -1,3 +1,3 @@
 # Coursera_Capstone
-Coursera Specialixation : IBM capstone project
-All Assignment/progects posted here
+Coursera Specialization : IBM capstone project
+All Assignment/projects posted here
